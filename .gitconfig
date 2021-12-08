@@ -1,0 +1,2 @@
+git config --global user.name "Stephen C. Moore"
+git config --global user.email stephen.c.moore@gmail.com
